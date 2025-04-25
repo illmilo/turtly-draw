@@ -1,4 +1,4 @@
-<img src="https://cdn-icons-png.freepik.com/256/1650/1650608.png?semt=ais_hybrid" width=20% align=right>
+<img src="https://cdn-icons-png.freepik.com/256/1650/1650608.png?semt=ais_hybrid" width=7% align=right>
 
 # turtly-draw
 ## Introduction
